@@ -1,0 +1,13 @@
+td {
+    padding:5px;
+    text-decoration-color: darkorchid;
+    font-size: large;
+}
+button[name="Sort"] {
+    background-color: azure;
+    color:darkorchid;
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    text-decoration-color: darkorchid;
+    margin-top: 5px;
+}

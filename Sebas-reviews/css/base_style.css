@@ -1,0 +1,50 @@
+body {
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    background-color: azure;
+    font-family:cursive;
+}
+h1, h3, p {
+    color:darkorchid;
+    text-align: center;
+}
+h3 {
+    margin-top: 20px;
+}
+p {
+    max-width: 1000px;
+    font-size: 20px;
+    text-align: center;
+    margin-top: -3px;
+}
+a {
+    color:inherit;
+}
+table {
+    border: 1px solid darkorchid;
+    border-radius: 5px;
+    text-align:start;
+    margin-top: 30px;
+    color:darkorchid;
+}
+button {
+    padding:5px;
+    width:90px;
+    border:none;
+    font-size:14px;
+    font-weight: bold;
+}
+button[name="Home_Button"]{
+    position:absolute;
+    left:20px;
+    top:20px;
+    border-radius: 12px;
+    background-color: darkorchid;
+    color:azure;
+}
+button:hover {
+    cursor:pointer;
+}
