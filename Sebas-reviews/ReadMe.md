@@ -1,4 +1,4 @@
-Website backend eindproject php. 
+Website PHP Project
 
 Import de .sql file in een MySQL-database
 en verander de values van $dbhost, $dbuser, $dbpass in het Database.php bestand naar de values van jou host
